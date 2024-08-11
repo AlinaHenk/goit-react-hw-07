@@ -19,7 +19,6 @@
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "formik": "^2.4.6",
-    "nanoid": "^5.0.7",
     "react-bootstrap-icons": "^1.11.4",
     "redux-persist": "^6.0.0",
     "yup": "^1.4.0"
