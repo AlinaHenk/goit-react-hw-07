@@ -1,0 +1,13 @@
+.contactFormMain {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 400px;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+.error {
+  color: rgb(240, 73, 12);
+  font-size: 14px;
+}

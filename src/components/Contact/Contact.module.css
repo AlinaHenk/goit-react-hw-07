@@ -1,0 +1,16 @@
+.form {
+  border: 1px solid #2a2a2a;
+  border-radius: 2px;
+  padding: 8px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  justify-content: space-between;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+}

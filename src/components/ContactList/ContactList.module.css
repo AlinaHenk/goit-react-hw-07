@@ -1,0 +1,6 @@
+.group {
+  display: flex;
+  flex-direction: initial;
+  width: 100%;
+  gap: inherit;
+}
