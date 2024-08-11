@@ -1,11 +1,9 @@
 .group {
   display: flex;
-  flex-direction: initial;
-  width: 100%;
-  gap: inherit;
   flex-wrap: wrap;
+  gap: 10px;
 }
+
 .group > * {
-  flex: 1 1 80px;
-  max-width: 155px;
+  flex: 0 0 15%;
 }
