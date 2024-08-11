@@ -1,5 +1,3 @@
-import { PhoneFill } from "react-bootstrap-icons";
-import * as icons from "react-bootstrap-icons";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { useDispatch } from "react-redux";
 import { deleteContact } from "../../redux/contactsOps";

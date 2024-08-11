@@ -3,4 +3,9 @@
   flex-direction: initial;
   width: 100%;
   gap: inherit;
+  flex-wrap: wrap;
+}
+.group > * {
+  flex: 1 1 80px;
+  max-width: 155px;
 }
