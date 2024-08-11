@@ -2,7 +2,7 @@ import { PhoneFill } from "react-bootstrap-icons";
 import * as icons from "react-bootstrap-icons";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { useDispatch } from "react-redux";
-import { deleteContact } from "../../redux/contactsSlice";
+import { deleteContact } from "../../redux/contactsOps";
 import css from "./Contact.module.css";
 
 export default function Contact({ contact }) {
